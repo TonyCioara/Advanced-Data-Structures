@@ -15,7 +15,7 @@ class PriorityQueue(object):
 
     def __repr__(self):
         """Return a string representation of this priority queue."""
-        return 'PriorityQueue({} items, front={})'.format(self.size(), self.front())
+        return 'PriorityQueue({} items, front={})'.format(self.length(), self.front())
 
     def is_empty(self):
         """Return True if this priority queue is empty, or False otherwise."""
@@ -30,28 +30,35 @@ class PriorityQueue(object):
         the given priority."""
         # TODO: Insert given item into heap in order according to given priority
         # ...
+        self.heap.insert((priority, item))
 
     def front(self):
         """Return the item at the front of this priority queue without removing
         it, or None if this priority queue is empty."""
-        if self.size() == 0:
+        if self.length() == 0:
             return None
         # TODO: Return minimum item from heap
         # ...
+        touple = self.heap.get_min()
+        return touple[1]
 
     def dequeue(self):
         """Remove and return the item at the front of this priority queue,
         or raise ValueError if this priority queue is empty."""
-        if self.size() == 0:
+        if self.length() == 0:
             raise ValueError('Priority queue is empty and has no front item')
         # TODO: Remove and return minimum item from heap
         # ...
+        touple = self.heap.delete_min()
+        return touple[1]
 
     def push_pop(self, item, priority):
         """Remove and return the item at the front of this priority queue,
         and insert the given item in order according to the given priority.
         This method is more efficient than calling dequeue and then enqueue."""
-        if self.size() == 0:
+        if self.length() == 0:
             raise ValueError('Priority queue is empty and has no front item')
         # TODO: Replace and return minimum item from heap
         # ...
+        touple = self.heap.replace_min(priority, item)
+        return touple[1]
