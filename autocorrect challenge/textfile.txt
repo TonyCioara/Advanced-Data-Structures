@@ -1,0 +1,112 @@
+I deleted my Facebook a few weeks ago, but it started scaring me last March.
+
+A friend and I ran into one of his investors in a café in San Francisco, and the investor asked if we’d heard of a Soylent competitor, Ample. He was curious what we thought of it, and of meal replacement companies in general.
+
+I hadn’t heard of Ample, but I shared my concerns with Soylent, and why I personally would never put my money into one of those companies. My friend, for the most part, agreed.
+
+The conversation ended and we left. I didn’t think about Ample again, look it up, or talk about it online with anyone. But less than 24 hours later, there were ads for it in my Instagram feed.
+
+It was spooky, to say the least. I was used to getting ads for products whose sites I’d visited, and for products I’d mentioned on Facebook, but products that I’d only talked about? That was weird.
+
+After a bit of digging, I discovered I wasn’t alone. There were dozens of stories online about people getting freaked out by ads that seem like they only could have come from Facebook eavesdropping on their conversations.
+
+Now to be clear, this probably isn’t happening. It would be a massive amount of work and data processing for marginally better ad targeting. Like the Wired article says, Facebook doesn’t need to listen to your conversations.
+
+They can target you well enough without it.
+
+Cause for Concern
+That’s meant to be reassuring: they’re not listening to you because they don’t have to. But if anything, that should be even scarier. Facebook knows so much about you they can make you believe they’re listening to your personal conversations. They have so much data about you they can send you ads that have an uncanny relevance to what is going on in the real world.
+
+Imagine, for a moment, that you had a friend with this level of knowledge about you. Someone who knows everywhere you go, what you like, what you fear, what you want, who you hang out with, how happy you are at any given moment.
+
+They could be an amazing boon to your life. Or they could be a nightmare. It all depends on what they do with the information, and how well you can trust them with it.
+
+Now imagine the friend can use their information about you to make money, say by manipulating your decisions to benefit them. And imagine they’re the kind of morally bankrupt person who would take advantage of their friend this way.
+
+What would their incentives look like?
+
+Since they can make money by manipulating your decisions, they’ll try to manipulate your decisions. And since they can better manipulate your decisions by learning more about you, the more they’ll want to learn. If they want the greatest success for themselves, they will necessarily have to manipulate you as much as possible and collect as much data on you as possible.
+
+This seems to be the situation Facebook has gotten itself into:
+
+They make money on ads.
+Which means they need you to click on ads.
+Which means they need to know more about you to send you better ads.
+And they need you to spend more time on the site so you click on more ads.
+So they’re motivated to get you addicted to spending time on the platform while collecting as much information about you as possible.
+Facebook’s product is not the platform, it’s us. If the product is what a business sells to make money, then Facebook’s product is our attention and data. We are the product. And Facebook’s customers are the companies buying ads based on that attention and data.
+
+If our time and our attention are Facebook’s true product, then their long-term goal becomes clear: to influence (and tax) how we communicate in the 21st century. Every product they’ve launched and company they’ve acquired is related to this goal in some way:
+
+Facebook (app) is the asynchronous, community-focused communication platform
+Messenger / Whatsapp are the more instant, smaller group communication platforms
+Instagram is the visual communication platform
+Oculus can be the future immersive version of all of these platforms
+Facebook wants to own how we communicate because it means more data and more attention, which means more ads revenue. Simple enough.
+
+But that idea should be a little frightening: a company wants to control how you interact with other humans so that they can make money off of you. This isn’t some secret, evil motivation driving the company behind closed doors. It’s a necessary consequence of the incentives that shape it.
+
+Compare this model to Netflix. You pay Netflix a flat monthly fee, and in return, you get unlimited streaming movies and TV shows from their platform. Netflix doesn’t make more money the more time you spend on it (they make less, actually), so they have no incentive to addict you to the platform (beyond keeping you from switching to a competitor). With Netflix, we’re the customers.
+
+This isn’t to say that all free, ad-financed apps are bad and all pay-to-play apps are good. I’ve used Foursquare and Swarm consistently for 7+ years. These are apps where I volunteer my location, travel, eating, and shopping habits, and I’ve never had the slightest sense that Foursquare was using this data in a way that made my life worse.
+
+The ads in Foursquare tend to be useful. Their goal for the product is to be the place consumers go to find the next restaurant or café to try. They don’t need you to spend tons of time in the app, and they don’t need you to buy products from vendors unrelated to your in-app goals. They just want you to stay in the habit of checking in places and finding places through them, so they serve you ads related to the kinds of foods and stores you tend to like.
+
+If Foursquare started using that data in a way that made me uncomfortable, I’d stop using it. If every time I checked into a restaurant I started getting emails from them afterwards, I’d know Foursquare was selling my email address to places I checked in and I wouldn’t be cool with that. I’d delete it, and switch to an app I had more trust in.
+
+The problem with Facebook is that its managed to gain such a monopoly on our digital presence that we worry about quitting it. Switching from Foursquare to Yelp doesn’t give anyone anxiety, but deleting Facebook does.
+
+The Fear of Quitting
+How did Facebook get so ingrained in our lives that people who lived without it for thirty years are suddenly concerned about losing it?
+
+Partially for the same reason people joined in the first place: information. We want to know what’s going on in the lives of our friends and acquaintances, and Facebook has become the go-to source for doing that.
+
+But in the process, Facebook has changed friendship from an active to a passive process. You can sit back and wait for some update to appear from a friend or acquaintance and then respond to it. You don’t have to put in any effort to reach out and ask what’s going on, you get it fed to your by the magical friend algorithms.
+
+How often do you reach out to your friends to ask them how it’s going? Or to see if there are any big updates in their lives? There’s hardly any need anymore, since Facebook has automated the process. We don’t have to put in the work, the information comes to us, and so we’ve lost the muscles we used to use for staying updated on our social circle.
+
+It’s similar to the problem I outlined in my article on the switch from search to social. As we moved away from actively looking for things on the Internet, having them fed to us instead, we became more passive informational consumers. And as we move more towards passive Facebook-style friendships, we lose our old abilities to stay in touch with people.
+
+This would be fine if Facebook relationships were as meaningful as in-person ones, but they aren’t. Conversations through chat apps and getting up to date on your friends through the newsfeed is the relationship equivalent of Soylent. A technological pseudo-improvement over an ancient human process, and one that falls dramatically short of the value it’s trying to recreate.
+
+And since we’ve been sipping the Facebook friend juice for so long, it’s legitimately scary to quit. How will you know what events are going on? How will you know if something big happens in your friend’s life? How will you stay in touch with people?
+
+The simple answer is… all the ways we did for the last 100,000 years. Talking to people. Being an active consumer of information and knowledge about your friends’ lives instead of letting it passively wash over you.
+
+But it would still be fair to ask: why bother. Yes, quitting Facebook does make it more likely that you’ll miss events, updates, and messages, since other people are on it. And yes, it can be a little inconvenient to not have it at times, depending on your friend group.
+
+So why is it worth it to delete the social network instead of begrudgingly continuing to use it?
+
+Why Bother Deleting Facebook
+Someone observing the digital landscape a couple years from now could see Facebook continuing its dominance and deduce that it’s fine to play fast and loose with customer data in the name of growth, to optimize your product around addictiveness, and to sell information on your users.
+
+Or, in a couple years, they could see the massive consequences Facebook faced for behaving that way. They could see people chose to give their attention to products they trust, and left Facebook in droves.
+
+Which is why quitting Facebook matters: it sends the message that companies can’t, and shouldn’t, try to have that much power over our lives. That if other companies try in the future, they’ll get punished for it.
+
+If someone in our social circle deceives us or lies to us, we tell our friends. We use gossip to spread information about who is and isn’t trustworthy, partially so there are consequences for not being trustworthy. If businesses aren’t subject to the same consequences for not being trustworthy, they’ll have no motivation to think before they do something that could break their users’ trust.
+
+If Facebook thinks they can keep focusing on addiction, ad revenue, and data collection with no consequences, they’ll keep doing it.
+
+Reflecting on how Facebook has become such a dominant force in our lives the last five to ten years, and the consequences of that dominance, I think there are a few key lessons from it that we can apply to other technologies:
+
+Don’t rely on a product for a natural human process
+Facebook can’t replace socialization and face-to-face communication. Soylent can’t replace food. Porn can’t replace sex. Tinder can’t replace dating. It’s tempting to try to technologize everything in our lives, but it won’t work for these more old-school processes, and we should stop believing that four guys in their Harvard dorm room can really make a better social network than the one we have IRL.
+
+Be the customer, not the product
+Opt for services you pay for instead of services that sell your information. Pay to remove ads whenever possible. When you’re using a product for free, you’re still paying for it in some way, typically through the data and attention you’re giving it. Watch out for the incentives of companies and products you use, and don’t expect that they’ll all be benevolent masters of your information.
+
+Most importantly: treat companies like people
+If a company can’t be trusted, ditch them, and let them feel the consequences. If a product can get away with mistreating its users to make money, it will keep doing it until they feel the consequences.
+
+Facebook has become the abusive partner in many people’s lives. They’ve carved out such a seemingly important role in your life that even though you want to leave, you’re scared of the consequences.
+
+But I can’t stress enough how little impact quitting has on your life. I was almost entirely off it for a year before deleting it, and in that time I’ve never missed it. Have I missed an event or two? Probably, but that’s a small price to pay.
+
+And as for staying up to date on my friends lives… well I just do it the old fashioned way. Talking to them. Which is wonderful since we actually have something to talk about when we meet in person, instead of sitting on our phones looking at Facebook to get up to date on all our other friends’ lives.
+
+Imagine going back 10 years and being told that if you signed up for Facebook, they were going to collect a disturbing amount of information on you, manipulate your emotions, store your conversations, and try to control how you communicate with people online. Would you sign up? Would you let your kid sign up?
+
+I wouldn’t, and I don’t think you would either.
+
+Here’s how to quit when you’re ready.
