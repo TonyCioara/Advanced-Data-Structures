@@ -43,16 +43,17 @@ class Trie(object):
                 node = new_node
 
             elif data[index] == node.data:
-                if node.left is None and index < len(data) - 1:
-                    new_node = TrieNode(data[index + 1])
-                    self.size += 1
-                    node.left = new_node
-                elif node.left is not None:
-                    if node.left.data > data[index + 1]:
+                if index < len(data) - 1:
+                    if node.left is None:
                         new_node = TrieNode(data[index + 1])
-                        new_node.right = node.left
-                        node.left = new_node
                         self.size += 1
+                        node.left = new_node
+                    elif node.left is not None:
+                        if node.left.data > data[index + 1]:
+                            new_node = TrieNode(data[index + 1])
+                            new_node.right = node.left
+                            node.left = new_node
+                            self.size += 1
                 if index == len(data) - 1:
                     node.is_final = True
                 node = node.left
@@ -70,17 +71,17 @@ class Trie(object):
                     node.right = new_node
                 node = node.right
 
-    def get_words_with_suffix(self, suffix):
+    def get_words_with_prefix(self, prefix):
 
-        current_word = suffix
+        current_word = prefix
         node = self.root
         index = 0
-        suffix = list(suffix)
-        while index < len(suffix):
-            if suffix[index] == node.data:
+        prefix = list(prefix)
+        while index < len(prefix):
+            if prefix[index] == node.data:
                 node = node.left
                 index += 1
-            elif suffix[index] > node.data:
+            elif prefix[index] > node.data:
                 node = node.right
             else:
                 return []
