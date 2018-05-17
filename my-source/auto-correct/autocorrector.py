@@ -23,7 +23,7 @@ def benchmark(all_prefixes, auto_corrector):
     return run_time
 
 
-def main(input):
+def main():
     text_file = '/usr/share/dict/words'
     all_words = get_words(text_file)
 
@@ -32,7 +32,8 @@ def main(input):
 
     end_time = time.time()
     run_time = end_time - start_time
-    print("Built Trie in", run_time, "seconds.")
+    print("--------------")
+    print('Built Trie in {} "seconds.'.format(run_time))
 
     all_prefixes = set([word[:len(word)//2] for word in all_words])
     run_time = benchmark(all_prefixes, auto_corrector)
@@ -54,5 +55,4 @@ class AutoCorrector(object):
 
 
 if __name__ == "__main__":
-    input = str(sys.argv[1])
-    main(input)
+    main()

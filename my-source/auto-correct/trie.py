@@ -21,7 +21,10 @@ class Trie(object):
     # my footsetps
     def insert(self, data):
 
+        # Make data into array of characters. Works just fine without this step
         data = list(data)
+
+        # Check if tree is empty. If true add letters to the left until done
         if self.root is None:
             node = TrieNode(data[0])
             self.root = node
@@ -33,37 +36,58 @@ class Trie(object):
                 self.size += 1
             return
 
+        # index iterates through the word
         index = 0
         node = self.root
         while index < len(data):
+
+            # If the letter is smaller than the head value switch the head.
             if node == self.root and node.data > data[index]:
                 new_node = TrieNode(data[index])
                 new_node.right = node
                 self.root = new_node
                 node = new_node
 
+            # If the data is the same as the letter and the word isn't fully
+            # inserted, then:
             elif data[index] == node.data:
                 if index < len(data) - 1:
+
+                    # We add a new node to the left if it's empty
                     if node.left is None:
                         new_node = TrieNode(data[index + 1])
                         self.size += 1
                         node.left = new_node
+
+                    # We add a new node to the left the value to the left is
+                    # bigger than the value of the next letter in the word
                     elif node.left is not None:
                         if node.left.data > data[index + 1]:
                             new_node = TrieNode(data[index + 1])
                             new_node.right = node.left
                             node.left = new_node
                             self.size += 1
+
+                # If we're done inserting the word make the last letter "final"
+                # This is important when getting words
                 if index == len(data) - 1:
                     node.is_final = True
                 node = node.left
                 index += 1
 
+            # If the value of the current letter in the word is bigger
+            # than the current node's letter, traverse to the right
             elif data[index] > node.data:
+
+                # If the right is empty create a new node to the right
                 if node.right is None:
                     new_node = TrieNode(data[index])
                     self.size += 1
                     node.right = new_node
+
+                # If the right node's letter is smaller than the current
+                # letter in the word, create a new node with the letter to
+                # insert between the current node and the right node
                 elif data[index] < node.right.data:
                     new_node = TrieNode(data[index])
                     self.size += 1
